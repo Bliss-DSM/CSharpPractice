@@ -1,5 +1,6 @@
 using System;
 
+//형변환, 기본 문법 요소, 배열 (65p ~ 81p)
 namespace Ex005
 {
     class Program

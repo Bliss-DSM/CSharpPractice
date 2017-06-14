@@ -1,5 +1,6 @@
 using System;
 
+//클래스 (111p ~ 140p)
 namespace Ex007
 {
     class Program

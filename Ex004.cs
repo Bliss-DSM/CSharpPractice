@@ -1,5 +1,6 @@
 using System;
 
+//문자열/불린형 기본 타입 (60p ~ 63p)
 namespace Ex004
 {
     class Program

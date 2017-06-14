@@ -1,5 +1,6 @@
 using System;
 
+//실수형 기본 타입 (59p)
 namespace Ex003
 {
     class Program

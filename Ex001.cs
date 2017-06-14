@@ -1,5 +1,6 @@
 using System;
 
+//기본 자료형 (56p)
 namespace Ex001
 {
     class Program

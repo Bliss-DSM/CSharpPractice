@@ -1,5 +1,6 @@
 using System;
 
+//캡슐화, 상속 (141p ~ 173p)
 namespace Ex008
 {
     class Program
