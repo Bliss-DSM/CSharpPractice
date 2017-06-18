@@ -1,7 +1,7 @@
 using System;
 
 //전처리기 지시문(3) (270p)
-namespace Ex051;
+namespace Ex051
 {
     class Program
     {
