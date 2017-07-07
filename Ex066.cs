@@ -1,4 +1,5 @@
 using System;
+using System.IO;
 
 //자원 해제 (360p ~ 364p)
 namespace Ex066
